@@ -33,7 +33,8 @@ function Getfulllogs(){
                             <option value="Claim Number">Claim Number</option>
                             <option value="B">Transactions</option>
                         </select>   
-                        <a className="button" href="/searchoptions">Submit</a>
+                        {/* <a className="button" href="/searchoptions">Submit</a> */}
+                        <a className="button">Submit</a>
                     </form>
                 </div>
             </div>

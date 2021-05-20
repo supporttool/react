@@ -41,7 +41,8 @@ function Checkapistatus(){
                             <option value="C">Landing</option>
                             <option value="C">Agent voice bot</option>
                         </select>   
-                        <a className="button" href="/searchoptions">Submit</a>
+                        {/* <a className="button" href="/searchoptions">Submit</a> */}
+                        <a className="button">Submit</a>
                     </form>
                 </div>
             </div>
