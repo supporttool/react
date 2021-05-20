@@ -27,14 +27,14 @@ function Specifiedsearch(){
                     <h3>Specified Search</h3>
                     <form>
                         <select value={optionSelectChannel}>
-                            <option selected>Select channel</option>
+                            <option>Select channel</option>
                             <option value="B">Widget</option>
                             <option value="C">Whatsapp</option>
                             <option value="C">Landing</option>
                             <option value="C">Agent Voice Bot</option>
                         </select>
                         <select value="select">
-                            <option selected>Select</option>
+                            <option>Select</option>
                             <option value="A">Registration number</option>
                             <option value="B">Email Id</option>
                             <option value="C">Policy</option>
